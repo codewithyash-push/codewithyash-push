@@ -1,6 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @codewithyash-push<br>- 👀 I’m interested in Coding<br>- 🌱 I’m currently learning fullstack<br>- 💞️ I’m looking to collaborate on everything<br>- 📫 Reach me through linkedin..<br>- ⚡ Fun fact: The first computer "bug" was literally Moth....
-
+- Passionate about building innovative solutions and exploring new technologies to solve real-world problems. Currently in my second year pursuing B.Tech in Computer Science at KIIT University.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyash.img) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreyash-pandey-engineer0108/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashpandey0108@gmail.com) 
